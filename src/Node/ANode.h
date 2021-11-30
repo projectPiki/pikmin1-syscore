@@ -4,7 +4,9 @@
 #include <types.hpp>
 
 enum class NodeType : u32 {
-    ANode = 0,
+    ANode = 0, // 0
+    Unused1,   // 1
+    CoreNode,  // 2
 };
 
 struct AgeServer;

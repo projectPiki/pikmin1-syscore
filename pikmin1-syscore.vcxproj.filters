@@ -21,12 +21,18 @@
     <ClCompile Include="src\Node\ANode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Node\CoreNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\types.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Node\ANode.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Node\CoreNode.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
