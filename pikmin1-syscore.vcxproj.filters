@@ -24,6 +24,21 @@
     <ClCompile Include="src\Node\CoreNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\StdSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ObjInfo\GfxobjInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ID32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ayu\AyuStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ayu\AyuHeap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\types.hpp">
@@ -33,6 +48,21 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Node\CoreNode.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\StdSystem.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ObjInfo\GfxobjInfo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ID32.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Ayu\AyuStack.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Ayu\AyuHeap.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

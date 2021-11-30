@@ -151,13 +151,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Ayu\AyuHeap.cpp" />
+    <ClCompile Include="src\Ayu\AyuStack.cpp" />
+    <ClCompile Include="src\ID32.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Node\ANode.cpp" />
     <ClCompile Include="src\Node\CoreNode.cpp" />
+    <ClCompile Include="src\ObjInfo\GfxobjInfo.cpp" />
+    <ClCompile Include="src\StdSystem.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Ayu\AyuHeap.h" />
+    <ClInclude Include="src\Ayu\AyuStack.h" />
+    <ClInclude Include="src\ID32.h" />
     <ClInclude Include="src\Node\ANode.h" />
     <ClInclude Include="src\Node\CoreNode.h" />
+    <ClInclude Include="src\ObjInfo\GfxobjInfo.h" />
+    <ClInclude Include="src\StdSystem.h" />
     <ClInclude Include="src\types.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
