@@ -105,3 +105,7 @@ void CoreNode::genRead(AgeServer&) { }
 void CoreNode::genWrite(AgeServer&) { }
 
 u32 CoreNode::getAgeNodeType() { return static_cast<u32>(NodeType::CoreNode); }
+
+inline void CoreNode::read(RandomAccessStream& stream) { }
+
+inline void CoreNode::write(RandomAccessStream& stream) { }
