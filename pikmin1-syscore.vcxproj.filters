@@ -39,6 +39,12 @@
     <ClCompile Include="src\Ayu\AyuHeap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Stream\Stream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\String_.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\types.hpp">
@@ -63,6 +69,12 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Ayu\AyuHeap.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Stream\Stream.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\String_.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

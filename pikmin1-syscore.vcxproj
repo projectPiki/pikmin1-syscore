@@ -159,6 +159,8 @@
     <ClCompile Include="src\Node\CoreNode.cpp" />
     <ClCompile Include="src\ObjInfo\GfxobjInfo.cpp" />
     <ClCompile Include="src\StdSystem.cpp" />
+    <ClCompile Include="src\Stream\Stream.cpp" />
+    <ClCompile Include="src\String_.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Ayu\AyuHeap.h" />
@@ -168,6 +170,8 @@
     <ClInclude Include="src\Node\CoreNode.h" />
     <ClInclude Include="src\ObjInfo\GfxobjInfo.h" />
     <ClInclude Include="src\StdSystem.h" />
+    <ClInclude Include="src\Stream\Stream.h" />
+    <ClInclude Include="src\String_.h" />
     <ClInclude Include="src\types.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
